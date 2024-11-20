@@ -1,4 +1,4 @@
-python-opencv
+python-opencv-headless
 libgl1
 libsm6
 libxext6
