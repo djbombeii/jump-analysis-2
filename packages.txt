@@ -1,4 +1,7 @@
 python-opencv-headless
+opencv-python-headless==4.8.0.74
+libgl1-mesa-glx
+libglib2.0-0
 libgl1
 libsm6
 libxext6
